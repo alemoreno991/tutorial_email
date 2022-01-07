@@ -8,4 +8,4 @@ Gmail is one of the most used e-mail service providers in the world. So, it's no
 </p>
 
 
-- [Exploit your address](doc/address.md)
+- [Exploit your address](exploit-address/doc/address.md)
