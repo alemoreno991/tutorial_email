@@ -6,7 +6,7 @@ Having a nice looking signature in your email will always make it more professio
 <br />
 
 <div align="center">
-  <img src="img/signature.png">
+  <img src="../img/signature.png">
 </div>
 
 <br />
@@ -14,7 +14,7 @@ Having a nice looking signature in your email will always make it more professio
 
 ## Get Creative
 
-- Open the directory and modify `gmail-signature.html` to your liking
+- Modify `gmail-signature.html` to your liking
 
 - Check your results opening `gmail-signature.html` in any browser 
 
